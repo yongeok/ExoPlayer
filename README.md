@@ -93,3 +93,18 @@ To develop ExoPlayer using Eclipse:
   1. Import the projects.
 
 [Android SDK]: http://developer.android.com/sdk/index.html
+
+[Compare with mediaplayer]
+===========================
+* http://google.github.io/ExoPlayer
+
+* ExoPlayer
+	- MediaCodec ,AudioTrack ,MediaDrm 등의 안드로이드 하위 API를 사용하여 구현함.
+	- 
+
+
+
+
+
+
+
